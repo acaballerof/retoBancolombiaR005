@@ -1,0 +1,10 @@
+git init
+git remote add origin master https://github.com/acaballerof/retoBancolombiaR005.git
+git pull origin master
+git add -A
+git status
+git commit -m "Subo proyecto RetoBancolombiaR005"
+git push origin master
+git add -A
+git commit -m "Subo archivo lista de git"
+git push origin master

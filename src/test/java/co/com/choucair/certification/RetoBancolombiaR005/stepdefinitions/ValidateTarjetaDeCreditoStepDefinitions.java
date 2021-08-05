@@ -18,7 +18,7 @@ import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static net.serenitybdd.screenplay.actors.OnStage.*;
 import static net.serenitybdd.screenplay.actors.OnStage.setTheStage;
 
-public class validateTarjetaDeCreditoStepDefinitions {
+public class ValidateTarjetaDeCreditoStepDefinitions {
 
     @Before
     public void setStage() { setTheStage(new OnlineCast());}

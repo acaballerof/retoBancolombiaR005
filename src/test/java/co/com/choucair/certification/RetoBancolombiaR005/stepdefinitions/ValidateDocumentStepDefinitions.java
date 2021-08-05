@@ -15,7 +15,7 @@ import java.util.List;
 import static net.serenitybdd.screenplay.GivenWhenThen.*;
 import static net.serenitybdd.screenplay.actors.OnStage.*;
 
-public class validateDocumentStepDefinitions {
+public class ValidateDocumentStepDefinitions {
 
     @Before
     public void setStage() { setTheStage(new OnlineCast());}
